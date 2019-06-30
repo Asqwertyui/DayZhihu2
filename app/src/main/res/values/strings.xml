@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DayZhihu2</string>
+    <string name="Zhihu">知乎日报</string>
+    <string name="Wechat">微信精选</string>
+    <string name="Gank">干货集中营</string>
+    <string name="gload">稀土掘金</string>
+    <string name="v2ex">V2EX</string>
+    <string name="collection">收藏</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+</resources>

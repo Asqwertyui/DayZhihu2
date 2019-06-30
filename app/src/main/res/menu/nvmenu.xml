@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/item1" android:title="资讯"/>
+    <group android:id="@+id/item2">
+        <item android:id="@+id/zhi" android:title="@string/Zhihu" android:icon="@drawable/ser"/>
+        <item android:id="@+id/wechat" android:title="@string/Wechat" android:icon="@drawable/ceyuim_presonal_duihuakuang"/>
+        <item android:id="@+id/gank" android:title="@string/Gank" android:icon="@drawable/advanced_tools"/>
+        <item android:id="@+id/gload" android:title="@string/gload" android:icon="@drawable/process_manager_pressed"/>
+        <item android:id="@+id/v2ex" android:icon="@drawable/menu_home" android:title="@string/v2ex"/>
+    </group>
+    <group android:id="@+id/item3">
+        <item android:id="@+id/info" android:title="选项"/>
+        <item android:id="@+id/collect" android:title="@string/collection" android:icon="@drawable/jiazai"/>
+        <item android:id="@+id/setting" android:title="@string/setting" android:icon="@drawable/jj"/>
+        <item android:id="@+id/about" android:title="@string/about" android:icon="@drawable/app_manager"/>
+    </group>
+</menu>
